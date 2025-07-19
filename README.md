@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone (Frontend Only)
+# 🛒 Amazon Clone
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ This **Amazon Clone** is a static front-end project that replicates the basic de
 
 * **HTML5** – Structure of the web pages
 * **CSS3** – Styling and layout (Flexbox/Grid, Media Queries)
-* **JavaScript (Vanilla JS)** – DOM manipulation, UI interactivity
+* **JavaScript** – DOM manipulation, UI interactivity
 
 ---
 
