@@ -56,9 +56,10 @@ amazon-clone/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-*Add screenshots of your homepage, product card, or cart UI here.*
+<img width="1887" height="972" alt="image" src="https://github.com/user-attachments/assets/1c1adaa3-3d0e-4a09-be43-030d215d276d" />
+
 
 ---
 
