@@ -1,12 +1,8 @@
-Thanks! Here's a simple and effective **README file** for your **Amazon Clone project built using only HTML, CSS, and JavaScript**:
-
----
-
 # 🛒 Amazon Clone (Frontend Only)
 
 ## 📌 Project Overview
 
-This **Amazon Clone** is a static front-end project that replicates the basic design and functionality of the Amazon e-commerce platform using **HTML**, **CSS**, and **Vanilla JavaScript**. It showcases key features like a homepage with product listings, search bar, cart UI, and responsive design.
+This **Amazon Clone** is a static front-end project that replicates the basic design and functionality of the Amazon e-commerce platform using **HTML**, **CSS**, and **JavaScript**. It showcases key features like a homepage with product listings, search bar, cart UI, and responsive design.
 
 ---
 
@@ -71,6 +67,4 @@ amazon-clone/
 * Add filter/sort options for products
 
 ---
-
-Let me know if you’d like a downloadable version or help with deployment on GitHub Pages.
 
